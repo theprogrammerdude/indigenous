@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838612171168",
+    "project_id": "indegenous-app",
+    "storage_bucket": "indegenous-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838612171168:android:eabbc2bbc94922c39accc5",
+        "android_client_info": {
+          "package_name": "com.theprogrammerdude.indigenous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838612171168-es63vskui4uj611i7jvh4pebj3oc9u0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0GZ1zvJv_1uLo-ChdQ83bSpUqeFSmy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838612171168-es63vskui4uj611i7jvh4pebj3oc9u0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
